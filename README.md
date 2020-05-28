@@ -1,8 +1,8 @@
 # Django_BRMapp
 ## Table of contents
-* [General info](#General_info)
+* [Generalinfo](#General info)
 * [Technologies](#Technologies)
-* [set up](#set_up)
+* [setup](#set up)
 
 ## General info
 This is a book-record-management application, where a new user can sign up or a existing user can log in to the BRMapp.

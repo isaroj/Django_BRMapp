@@ -1,10 +1,10 @@
 # Django_BRMapp
 ## Table of contents
-* [General info](#General info)
+* [General_info](#General_info)
 * [Technologies](#Technologies)
-* [set up](#set up)
+* [set_up](#set_up)
 
-## General info
+## General_info
 This is a book-record-management application, where a new user can sign up or a existing user can log in to the BRMapp.
 In this app a user can get various functionalities sucha as add book, edit book, delete book, view books, search book.
 The BRMapp stores various data about a book i.e. book name, author name, publisher name, price etc.
@@ -15,7 +15,7 @@ HTML5 and CSS3 are used for front end development.
 SQLite3 is used for database purpose.
 DJango 3.0.6 is used as framwwork to develop this application.
 
-## set up
+## set_up
 Use command django -admin startproject projectname.
 Now make a pull request to download the entire BRMapp and place the entire folder under your project folder.
 Move the static folder outside the BRMapp folder.

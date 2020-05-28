@@ -1,6 +1,6 @@
 # Django_BRMapp
 ## Table of contents
-* [General_info](#General_info)
+* [General_info](#General_inf)
 * [Technologies](#Technologies)
 * [set_up](#set_up)
 
